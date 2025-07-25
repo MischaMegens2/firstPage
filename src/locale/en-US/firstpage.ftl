@@ -1,0 +1,1 @@
+first-page-doc = The firstPage plugin modifies Zotero's File Renaming, so that you can use &#123;&#123;firstPage&#125;&#125; and &#123;&#123;journalAbbreviation&#125;&#125; as field names, even when these fields are not populated; the first page will then be derived from &#123;&#123;pages&#125;&#125; and the abbreviated journal name from &#123;&#123;publicationTitle&#125;&#125;.

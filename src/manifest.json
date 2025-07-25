@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "firstPage",
+	"version": "2.0",
+	"description": "Automatically determines {{ firstPage }} from {{ pages }} for file renaming",
+	"homepage_url": "https://github.com/MischaMegens2/firstPage",
+	"applications": {
+		"zotero": {
+			"id": "firstpage@example.com",
+			"update_url": "https://zotero-download.s3.amazonaws.com/tmp/make-it-red/updates-2.0.json",
+			"strict_min_version": "7.0",
+			"strict_max_version": "7.1.*"
+		}
+	}
+}
