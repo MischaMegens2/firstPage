@@ -26,7 +26,8 @@ it tries to derive `{{firstPage}}` from `{{pages}}`, by splitting it at the hyph
 and it tries to derive `{{journalAbbreviation}}` from `{{publicationTitle}}`,
 by calling *Zotero.Cite.getAbbreviation()*.
 
-You can install the plugin by downloading the .xpi; 
-then, in Zotero, selecting *Tools*&rarr;*Plugins*
+You can install the plugin by downloading [firstpage.xpi](https://github.com/MischaMegens2/firstPage/tree/main/firstpage.xpi)
+(using the 'Download raw file' button);
+then, in Zotero, select *Tools*&rarr;*Plugins*
 to open the Plugins Manager window;
-and drag-and-dropping the .xpi on it.
+and drag-and-drop the .xpi on it.
